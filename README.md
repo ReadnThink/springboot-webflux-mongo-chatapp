@@ -1,6 +1,8 @@
 ﻿# springboot-webflux-mongo-chatapp
 채팅 프로그래밍을 만들어보며 발생한 이슈 및 고민
 
+<img src="https://github.com/ReadnThink/pocoapoco-refectoring/assets/103480627/ebd6e114-8b63-45fc-9aa1-010c69412c7f" width="800" height="500"/>
+
 # MongoDB 사용 이유
 
 RDB는 스키마가 있고 연관관계 맵핑을 통해 Join을 하여 쿼리를 한번 더 날린다.
